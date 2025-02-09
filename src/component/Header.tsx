@@ -7,7 +7,7 @@ function Header(): JSX.Element {
   const navmenuScrollspy = (): void => {
     const navmenulinks = document.querySelectorAll('.navmenu a');
 
-    navmenulinks.forEach((navmenulink: Element) => {
+    navmenulinks.forEach((navmenulink: any) => {
       if (!navmenulink.hash) return;
 
       const section = document.querySelector(navmenulink.hash);
