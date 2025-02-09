@@ -13,6 +13,7 @@
     "aos": "^2.3.4",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
+    "emailjs-com": "^3.2.0",
     "glightbox": "^3.3.1",
     "i": "^0.3.7",
     "isotope-layout": "^3.0.6",
@@ -21,6 +22,7 @@
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.1",
     "react-typed": "^2.0.12",
     "swiper": "^11.2.2",
     "waypoints": "^4.0.1"
