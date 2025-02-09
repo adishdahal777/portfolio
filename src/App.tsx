@@ -1,7 +1,4 @@
 import { JSX } from "react";
-import Header from './component/Header';
-import Body from './Body';
-
 // Bootstrap CSS
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";

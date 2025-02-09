@@ -20,9 +20,9 @@ const StatItem = ({ icon, endValue, title, description }: StatItemProps) => (
 
 export default function StatSection(): JSX.Element {
   const stats = [
-    { icon: "bi-emoji-smile", endValue: "8+", title: "Happy Clients", description: "" },
-    { icon: "bi-journal-richtext", endValue: "13+", title: "Projects", description: "" },
-    { icon: "bi-headset", endValue: "500+", title: "Hours Of Support", description: "" },
+    { icon: "bi-emoji-smile", endValue: 8, title: "Happy Clients", description: "" },
+    { icon: "bi-journal-richtext", endValue: 13, title: "Projects", description: "" },
+    { icon: "bi-headset", endValue: 500, title: "Hours Of Support", description: "" },
     { icon: "bi-people", endValue: 3, title: "Hard Workers", description: "" }
   ];
 
